@@ -6,7 +6,7 @@ Here’s a step-by-step explanation for recording a video walkthrough of this pr
 Introduction (1-2 minutes)
 Start with a Project Overview:
 
-"Welcome! In this video, I'll demonstrate how to use the 'Chat with PDF using Local Embeddings' app."
+"Welcome! In this project, I'll demonstrate how to use the 'Chat with PDF using Local Embeddings' app."
 Briefly explain the purpose:
 "This app allows you to upload PDFs, process their content, and ask questions about the content using AI models."
 Mention the technologies used:
