@@ -1,4 +1,4 @@
-# RAG-application
+# Chat with PDFs using Local Embeddings
 RAG application using streamlit
 
 Here’s a step-by-step explanation for recording a video walkthrough of this project. You can follow this structure for a clear and professional presentation:
